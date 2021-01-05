@@ -5,7 +5,7 @@ bondValues = {0:0, 25:0, 50:0, 100:0, 500:0, 1000:0, 5000:0, 10000:0, 25000:0, 5
 cumulativeBondValues = [2, 6, 15, 32, 74, 160, 1808, 6752, 33547, 60342, 2868182, 98952302605]
 prizeBondValues = [1000000, 100000, 50000, 25000, 10000, 5000, 1000, 500, 100, 50, 25, 0]
 myBonds = 100000
-trialNumber = 300
+trialNumber = 10000
 totalWinnings = []
 
 for i in range(trialNumber):
