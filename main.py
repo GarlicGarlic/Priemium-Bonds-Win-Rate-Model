@@ -24,7 +24,7 @@ averageWinnings = sum(totalWinnings)/trialNumber
 
 text = f"""
 
-Average monthly winnings: {averageWinnings}
+Average monthly winnings: £{averageWinnings}
 
 Total bonds modeled: {myBonds*trialNumber}
 Bonds that didn't win: {bondValues[0]}
