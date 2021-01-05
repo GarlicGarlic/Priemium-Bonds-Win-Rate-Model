@@ -1,0 +1,14 @@
+
+
+Average monthly winnings: 80.0
+
+Total bonds modeled: 3000000
+Total bonds that didn't win: 2999905
+Total bonds that won 25: 94
+Total bonds that won 50: 1
+Total bonds that won 100: 0
+Total bonds that won 500: 0
+Total bonds that won 1000: 0
+Total bonds that won 5000: 0
+Total bonds that won 10000: 0
+
